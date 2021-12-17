@@ -3,3 +3,5 @@ lex.yy.o
 stack.tab.c
 stack.tab.h
 stack.tab.o
+stackMachine
+.ignore/
